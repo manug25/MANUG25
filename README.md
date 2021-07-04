@@ -1,6 +1,6 @@
 ### Hi there, I am Manu K aka [theDataGuy] 👋
 
-## Senior Data Engineer @BT India <img height="64px" src="https://tenor.com/view/digital-skola-data-engineer-data-engineering-data-enginering-data-enthusiast-gif-21582990">
+## Senior Data Engineer @BT India <img height="64px" src="https://github.com/manug25/MANUG25/blob/main/images/data.gif">
 
 ### My Tech Skils : 
 Big Data | Spark/PySpark | Kafka | AWS | Python | Scala | DevOps | Docker | Kubernetes
