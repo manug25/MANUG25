@@ -3,7 +3,7 @@
 ## Senior Data Engineer @BT India | DevOps | Cloud | Home Automation
 - 🤔 On the verge of becoming superman!
 - 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation and some other cool stuffs.
-- heart To help and guide fellow aspirants for making career in Data Engineering. 
+- ❤️ To help and guide fellow aspirants for making career in Data Engineering. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with similar minds.
 - 💬 Ask me about Data Engineering, AWS, DevOps
