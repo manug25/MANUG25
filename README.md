@@ -1,6 +1,11 @@
 ### Hi there, I am Manu K aka [theDataGuy] 👋
 
-## Senior Data Engineer @BT India | DevOps | Cloud | Home Automation
+## Senior Data Engineer @BT India 
+
+### My Tech Skils : 
+Big Data | Spark/PySpark | Kafka | AWS | Python | Scala | DevOps | Docker | Kubernetes
+
+#### Fun facts about me:
 - 🤔 On the verge of becoming superman!
 - 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation and some other cool stuffs.
 - ❤️ To help and guide fellow aspirants for making career in Data Engineering. 
