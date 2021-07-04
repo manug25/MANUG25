@@ -4,7 +4,7 @@
 
 ---
 
-### My Tech Skils : 
+### My Tech Skills : 
 Big Data | Spark/PySpark | Kafka | AWS | Python | Scala | DevOps | Docker | Kubernetes
 
 
