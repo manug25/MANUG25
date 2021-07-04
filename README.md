@@ -11,11 +11,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&theme=shades-of-purple&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manug25&theme=shades-of-purple&show_icons=true)
 
 </details>
 
-📫 How to reach me: 
+### How to reach me:
 <a href="https://www.linkedin.com/in/manukumar2/">
     <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/manug25/MANUG25/blob/main/images/Linkedin.svg" />
   </a>
