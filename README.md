@@ -1,4 +1,4 @@
-### Hello Humans, I am Manu K aka [MG] 👋
+### Hi there, I am Manu K aka [theDataGuy] 👋
 
 ## Senior Data Engineer @BT India | DevOps | Cloud | Home Automation
 - 🤔 On the verge of becoming superman!
