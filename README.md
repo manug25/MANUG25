@@ -1,6 +1,6 @@
 ### Hi there, I am Manu K aka [theDataGuy] 👋
 
-## Senior Data Engineer @BT India <img height="64px" src="https://github.com/manug25/MANUG25/blob/main/images/data.gif">
+# Senior Data Engineer @BT India <img height="100px" src="https://github.com/manug25/MANUG25/blob/main/images/data.gif">
 
 ---
 
