@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello Humans, I am Manu K aka [MG] 👋
 
-<!--
-**manug25/MANUG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 
+## Senior Data Engineer @BT India | DevOps | Cloud | Home Automation
 - 🤔 On the verge of becoming superman!
 - 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation and some other cool stuffs.
 - heart To help and guide fellow aspirants for making career in Data Engineering. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with similar minds.
 - 💬 Ask me about Data Engineering, AWS, DevOps
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&theme=shades-of-purple&show_icons=true)
+
+</details>
 
 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/manukumar2/">
