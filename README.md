@@ -17,9 +17,9 @@
 
 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/manukumar2/">
-    <img align="left" alt="G R | Linkedin" width="24px" src="" />
+    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/manug25/MANUG25/blob/main/images/Linkedin.svg" />
   </a>
   <a href="mailto:email4manu@gmail.com">
-    <img align="left" alt="G R | Gmail" width="26px" src="" />
+    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/manug25/MANUG25/blob/main/images/Gmail.svg" />
   </a>
 <br />
