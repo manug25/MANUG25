@@ -1,11 +1,9 @@
-## Hi there, I am Manu K aka [theDataGuy] 👋
-
-# Senior Data Engineer @BT India <img height="100px" src="https://github.com/manug25/MANUG25/blob/main/images/data.gif">
+## Hi there, I am Manu Kumar, a Senior Data Engineer @BT India <img height="100px" src="https://github.com/manug25/MANUG25/blob/main/images/data.gif">
 
 ---
 
 ### My Tech Skills : 
-Big Data | Spark/PySpark | Kafka | AWS | Python | Scala | DevOps | Docker | Kubernetes
+Big Data | Spark | PySpark | Hadoop | Kafka | AWS | GCP | Python | Scala | DevOps | Docker | Kubernetes | BigQuery | Machine Learning
 
 
 <table>
@@ -33,11 +31,11 @@ Big Data | Spark/PySpark | Kafka | AWS | Python | Scala | DevOps | Docker | Kube
 ---
 
 #### Fun facts about me:
-- 🤔 On the verge of becoming superman!
-- 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation and some other cool stuffs.
-- ❤️ To help and guide fellow aspirants for making career in Data Engineering. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate with similar minds.
+- 🤔 On the verge of becoming Solution Arcitect!
+- 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation.
+- ❤️ Help and guide fellow aspirants for making career in Data Engineering. 
+- 🌱 I’m currently learning DevOp, Docker, Kubernetes, DS
+- 👯 I’m looking to collaborate with similar minds in the world of Data Engineering and Software development.
 - 💬 Ask me about Data Engineering, AWS, DevOps
 
 ---
