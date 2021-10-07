@@ -5,7 +5,6 @@
 
 
 ## Senior Data Engineer @BT India 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 ---
@@ -14,16 +13,16 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="95" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="hadoop" width="95" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg" alt="Scala" width="65" height="65"/>
+      <img src="https://github.com/manug25/MANUG25/blob/main/images/aws.gif" alt="aws" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
       <img src="https://github.com/manug25/MANUG25/blob/main/images/devops.gif" alt="devops" width="55" height="55"/>
-      <img src="https://github.com/manug25/MANUG25/blob/main/images/devops.gif" alt="aws" width="55" height="55"/>
 </p>
 
 
