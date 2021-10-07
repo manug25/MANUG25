@@ -7,7 +7,7 @@
 ## Senior Data Engineer @BT India <p align="center">
 <a href="https://twitter.com/iammanug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manug" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/manukumar2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manug" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://github.com/manug25/MANUG25/blob/main/images/Gmail.svg" alt="manug" height="40" width="30" /></a>&nbsp;
+<a href="mailto:email4manu@gmail.com" target="blank"><img align="center" src="https://github.com/manug25/MANUG25/blob/main/images/Gmail.svg" alt="manug" height="40" width="30" /></a>&nbsp;
 
 
 
@@ -47,16 +47,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manug25&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/manug25/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manug25&theme=dark)](https://git.io/streak-stats)
 
-
----
-
-### 
-<a href="https://www.linkedin.com/in/manukumar2/">
-    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/manug25/MANUG25/blob/main/images/Linkedin.svg" />
-  </a>
-  <a href="mailto:email4manu@gmail.com">
-    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/manug25/MANUG25/blob/main/images/Gmail.svg" />
-  </a>
-<br />
 
 ---
