@@ -4,7 +4,9 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">   I am Manu Kumar aka [theDataGuy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" color="daf7dc" width="30">] 
 
 
-## Senior Data Engineer @BT India <img height="64px" src="https://github.com/manug25/MANUG25/blob/main/images/data.gif">
+## Senior Data Engineer @BT India 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 
 ---
 
@@ -28,11 +30,11 @@
 ---
 
 #### Fun facts about me:
-- 🤔 On the verge of becoming superman!
-- 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation and some other cool stuffs.
-- ❤️ To help and guide fellow aspirants for making career in Data Engineering. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate with similar minds.
+- 🤔 On the verge of becoming Solution Arcitect!
+- 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation.
+- ❤️ Help and guide fellow aspirants for making career in Data Engineering. 
+- 🌱 I’m currently learning DevOp, Docker, Kubernetes, DS
+- 👯 I’m looking to collaborate with similar minds in the world of Data Engineering and Software development.
 - 💬 Ask me about Data Engineering, AWS, DevOps
 
 ---
