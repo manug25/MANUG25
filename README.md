@@ -4,7 +4,11 @@
 ## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">   I am Manu Kumar aka [theDataGuy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" color="daf7dc" width="30">] 
 
 
-## Senior Data Engineer @BT India 
+## Senior Data Engineer @BT India <p align="center">
+<a href="https://twitter.com/iammanug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manug" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/manukumar2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manug" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://github.com/manug25/MANUG25/blob/main/images/Gmail.svg" alt="manug" height="40" width="30" /></a>&nbsp;
+
 
 
 ---
