@@ -33,9 +33,8 @@
 ---
 
 #### Fun facts about me:
-- 🤔 On the verge of becoming Solution Arcitect!
-- 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, Home Automation.
-- ❤️ Help and guide fellow aspirants for making career in Data Engineering. 
+- 🔭 I’m currently working on Data Engineering, Machine Learning, DevOps, AWS, GCP, MDM, and Home Automation.
+- ❤️ Help and guide fellow aspirants for making a career in Data Engineering. 
 - 🌱 I’m currently learning DevOp, Docker, Kubernetes, DS
 - 👯 I’m looking to collaborate with similar minds in the world of Data Engineering and Software development.
 - 💬 Ask me about Data Engineering, AWS, DevOps
